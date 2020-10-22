@@ -1,4 +1,4 @@
-# rif-identity
+# RIF Identity
 This repo maps all RIF Identity repos in a single readme :)
 
 - [Documentation](https://github.com/rsksmart/rif-identity-docs)
